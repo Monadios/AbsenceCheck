@@ -1,0 +1,12 @@
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\AbsenceCheck.exe.config
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\AbsenceCheck.exe
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\AbsenceCheck.pdb
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.csprojResolveAssemblyReference.cache
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.Properties.Resources.resources
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.csproj.GenerateResource.Cache
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.csproj.CoreCompileInputs.cache
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.exe
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\obj\Debug\AbsenceCheck.pdb
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gstok\source\repos\AbsenceCheck\AbsenceCheck\AbsenceCheck\bin\Debug\HtmlAgilityPack.xml
